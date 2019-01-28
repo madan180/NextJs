@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^5.12.1",
     "next": "^7.0.2",
+    "prettify": "^0.1.7",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
