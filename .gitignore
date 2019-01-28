@@ -1,0 +1,20 @@
+.DS_Store
+dist
+node_modules
+*.log
+reports
+out
+.history
+
+# Reports
+reports
+
+# Flow
+flow-typed
+
+# ES Docs
+docs
+
+# next.js build output
+.next
+app/.next
